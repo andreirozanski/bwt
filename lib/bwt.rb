@@ -9,6 +9,8 @@ class Bwt
   #Transformation
   #@param String [String] Any given string
   #@return [String] String transformed.
+  #| - start flag.
+  #~ - end flag.
   def self.bwt(string)
     string2="|#{string}~"
     p string2
@@ -62,3 +64,5 @@ class Bwt
     end
   end #bwt_rev
 end # Bwt
+
+#2Cor3:18

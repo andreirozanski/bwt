@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "bwt"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.date = %q{2014-01-22}
   s.summary = %q{bwt}
   s.description = %q{A simple, under development Burrows–Wheeler transform implementation}
