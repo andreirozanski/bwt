@@ -24,7 +24,7 @@ Bwt.bwt("banana")
 "|banana~"  
 => "bnn|aa~a"  
 
-| is used as starting tag
-and
-~ as ending tag
+| is used as starting tag   
+and    
+~ as ending tag   
 
